@@ -43,7 +43,7 @@ Config.PedModelPharma = `s_f_y_scrubs_01`
 
 --- Sonnette
 Config.Sonnette = vector3(-674.5535, 326.4814, 82.5)
-Config.SonnetteWebHook = "https://discord.com/api/webhooks/1030612872025342092/mFetBXXDY_-e2s96OsOGBizS-_OjSoXd8uP9roSZ-51nuoSg2zvBJCGohGnXsLbZtm4B"
+Config.SonnetteWebHook = ""
 Config.PedModel = `s_f_y_scrubs_01`
 Config.PedCoords = {
     first = vector4(-680.8112, 328.9040, 82.16, 86.8283),
